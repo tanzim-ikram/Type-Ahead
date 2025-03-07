@@ -2,6 +2,9 @@
 
 Type Ahead is a simple and interactive city and state search tool that provides real-time suggestions based on user input. It fetches data from a remote JSON source and dynamically updates the suggestions as the user types.
 
+## **📸 Preview**  
+![Type Ahead Preview](<Type Ahead.png>)
+
 ## Features
 - **Live Search:** Displays city and state matches as you type.
 - **Highlighting:** Highlights matched text in results.
